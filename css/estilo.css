@@ -1,0 +1,45 @@
+#cuerpo{
+    background-color: darkslategray;
+}
+
+#contenedorConversor{
+    border: black;
+    display: block;
+    margin: 60px auto auto auto;
+    width: 30%;
+    border-style: solid;
+    background-color: white;
+}
+
+#cantidad{
+    height : 30px;
+    font-size: 20pt;
+}
+
+.btnConversor
+{
+    padding: 15px 32px;
+    font-size: 12pt;
+    border: rgb(0, 0, 0) 0.5px solid;
+    border-radius: 3px;
+    color: #ffffff;
+    background-color: dimgray;
+    margin: 10px;
+}
+
+#botones{
+    display: grid;
+    padding: 5px;
+    margin: auto;
+}
+
+#contenedorInput{
+    margin: auto;
+    display: table;
+    margin-bottom: 10px;
+}
+
+#titulo{
+    text-align: center;
+    font-size: 20pt;
+}
